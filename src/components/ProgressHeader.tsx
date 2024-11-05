@@ -15,7 +15,7 @@ export function ProgressHeader({ progress, totalWeapons }: Props) {
   return (
     <div className="fixed top-0 left-0 right-0 bg-gradient-to-r from-gray-900 to-gray-800 text-white shadow-lg z-50">
       <div className="max-w-7xl mx-auto px-4 py-3">
-        <h1 className="text-2xl font-bold mb-3 text-center">Black Ops 6 Camo Tracker</h1>
+        <h1 className="text-2xl font-bold mb-3 text-center">Dark Nóias</h1>
         <div className="grid grid-cols-4 gap-4">
           <div className="flex items-center justify-center gap-2">
             <Trophy className="w-5 h-5 text-yellow-500" />

@@ -201,7 +201,15 @@ export const weapons = {
      "Desbloqueia em": "Aberta",
      "Column5": "--",
      "Column6": "--"
-    }
+    },
+    {
+      "Icon": "https:\/\/oyster.ignimgs.com\/mediawiki\/apis.ign.com\/call-of-duty-black-ops-6\/4\/45\/Baseball-Bat.png?width=150&dpr=2",
+      "Arma": "Irmã do Thiago",
+      "Categoria ": "Melee",
+      "Desbloqueia em": "Aberta",
+      "Column5": "--",
+      "Column6": "--"
+     }
     // ... (the weapons data you provided)
   ]
 };
