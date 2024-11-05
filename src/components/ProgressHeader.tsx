@@ -27,7 +27,7 @@ export function ProgressHeader({ progress, totalWeapons }: Props) {
           </div>
           <div className="flex items-center justify-center gap-2">
             <Flame className="w-5 h-5 text-orange-500" />
-            <span className="font-medium">Dark Spice: {getCamoCount('darkSpice')}/{totalWeapons}</span>
+            <span className="font-medium">Dark Spine: {getCamoCount('darkSpice')}/{totalWeapons}</span>
           </div>
           <div className="flex items-center justify-center gap-2">
             <Skull className="w-5 h-5 text-purple-500" />

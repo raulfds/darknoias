@@ -57,7 +57,7 @@ export function WeaponCard({ weapon, progress, onToggleCamo, isLocked }: Props) 
             }`}
           >
             <Flame className="w-5 h-5" />
-            <span className="text-xs mt-1">Dark Spice</span>
+            <span className="text-xs mt-1">Dark Spine</span>
           </button>
           <button
             onClick={() => onToggleCamo('darkMatter')}
