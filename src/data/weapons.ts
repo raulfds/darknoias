@@ -215,14 +215,14 @@ export const weapons = {
     
      },
      {
-      "Icon": "https://static.wikia.nocookie.net/callofduty/images/9/9c/Sirin_9mm_Promo_BO6.jpg/revision/latest/scale-to-width-down/1000?cb=20241107181057",
+      "Icon": "https://insider-gaming.com/wp-content/uploads/2024/11/how-to-unlock-sirin-9mm-black-ops-6-warzone.jpg",
       "Arma": "Sirin 9mm",
       "Categoria ": "Pistolas",
       "Desbloqueia em": "Aberta",
       
      },
      {
-      "Icon": "https://static.wikia.nocookie.net/callofduty/images/d/d7/Power_Drill_Promo_BO6.jpg/revision/latest/scale-to-width-down/1000?cb=20241107181118",
+      "Icon": "https://esportseclipse.com/wp-content/uploads/2024/11/COD-Black-Ops-6-Season-1-Melee-Weapon-Power-Drill-1024x576.jpg",
       "Arma": "Power Drill",
       "Categoria ": "Melee",
       "Desbloqueia em": "Aberta",
