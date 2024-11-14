@@ -201,28 +201,28 @@ export const weapons = {
    
     },
     {
-      "Icon": "https:\/\/oyster.ignimgs.com\/mediawiki\/apis.ign.com\/call-of-duty-black-ops-6\/4\/45\/Baseball-Bat.png?width=150&dpr=2",
+      "Icon": "https://admin.esports.gg/wp-content/uploads/2024/11/Krig-C-968x544.jpg",
       "Arma": "Krig C",
       "Categoria ": "Assault Rifle",
       "Desbloqueia em": "Aberta",
     
      },
      {
-      "Icon": "https:\/\/oyster.ignimgs.com\/mediawiki\/apis.ign.com\/call-of-duty-black-ops-6\/4\/45\/Baseball-Bat.png?width=150&dpr=2",
+      "Icon": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2024/11/bo6-saug-loadout-550x309.jpg",
       "Arma": "Saug",
       "Categoria ": "SMGs",
       "Desbloqueia em": "Aberta",
     
      },
      {
-      "Icon": "https:\/\/oyster.ignimgs.com\/mediawiki\/apis.ign.com\/call-of-duty-black-ops-6\/4\/45\/Baseball-Bat.png?width=150&dpr=2",
+      "Icon": "https://static.wikia.nocookie.net/callofduty/images/9/9c/Sirin_9mm_Promo_BO6.jpg/revision/latest/scale-to-width-down/1000?cb=20241107181057",
       "Arma": "Sirin 9mm",
       "Categoria ": "Pistolas",
       "Desbloqueia em": "Aberta",
       
      },
      {
-      "Icon": "https:\/\/oyster.ignimgs.com\/mediawiki\/apis.ign.com\/call-of-duty-black-ops-6\/4\/45\/Baseball-Bat.png?width=150&dpr=2",
+      "Icon": "https://static.wikia.nocookie.net/callofduty/images/d/d7/Power_Drill_Promo_BO6.jpg/revision/latest/scale-to-width-down/1000?cb=20241107181118",
       "Arma": "Power Drill",
       "Categoria ": "Melee",
       "Desbloqueia em": "Aberta",
